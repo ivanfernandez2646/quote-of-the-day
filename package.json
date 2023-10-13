@@ -15,6 +15,7 @@
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
     "googleapis": "^126.0.1",
+    "node-telegram-bot-api": "^0.63.0",
     "nodemailer": "^6.9.6",
     "zenrows": "^1.3.1"
   }
